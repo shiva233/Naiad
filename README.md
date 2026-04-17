@@ -14,12 +14,12 @@ Naiad is basically a small keychain type thing that hangs off my HUGEE waterbott
 (The big water bottle in question)
 
 
+### Schematic
 
+<img width="7017" height="4962" alt="Naiad Schematic PNG" src="https://github.com/user-attachments/assets/619a8f5d-2329-4ef2-a5e0-c760d8499404" />
 
 ### Concept Sketches (Bad Handwriting be warned D:)
 
 <img width="561" height="756" alt="image" src="https://github.com/user-attachments/assets/b8fef642-0c19-4d3f-a7d3-a103561dd713" />
 
-### Schematic
 
-<img width="7017" height="4962" alt="Naiad Schematic PNG" src="https://github.com/user-attachments/assets/619a8f5d-2329-4ef2-a5e0-c760d8499404" />
