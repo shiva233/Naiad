@@ -1,7 +1,7 @@
 # Naiad
 A USB-C rechargeable keychain (that hangs on your water bottle) that flashes to remind you to drink water if it hasn’t detected a sip in X minutes. 
 
-<img width="352" height="385" alt="image" src="https://github.com/user-attachments/assets/a86b95ae-167f-4a80-a072-3f6d19545fa1" />
+<img width="415" height="389" alt="image" src="https://github.com/user-attachments/assets/a86b95ae-167f-4a80-a072-3f6d19545fa1" />
 
 <img width="352" height="385" alt="image" src="https://github.com/user-attachments/assets/b2b7446e-2845-4d4a-9dd9-a4a8c6aa4a1e" />
 
