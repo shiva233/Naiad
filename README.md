@@ -38,7 +38,7 @@ The sensor stays in a super low-power state (consuming only **800 nA**) and moni
 
 There are a couple of other parts that were also chosenn specfically for their low power applications so overall the system's total quiescent current is safely **under 5µA**! 
 
-**3. Seamless Power-Path Switching**
+**3. Power-Path Switching**
 I wanted this to be as easy to use as possible—no annoying manual power switches needed to charge it! I designed an automatic power-path switching circuit using a P-FET (SSM3J64CTC) and a Schottky diode (BAS100AS). 
 
 When you plug in a USB-C cable, the **5V** rail pulls the P-FET gate high, which instantly disconnects the battery from the main circuit. This lets the USB power the system *and* the battery charger (MCP73831) at the same time. When you unplug it, it seamlessly swaps back to battery power. Because the P-FET has an ultra-low on-resistance, the voltage drop across it is **less than 1mV** at these low currents, meaning the keychain never resets. It's totally plug-and-play! >:D
